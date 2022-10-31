@@ -445,8 +445,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -477,8 +479,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -509,8 +513,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -629,8 +635,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -661,8 +669,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -693,8 +703,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -813,8 +825,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -845,8 +859,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -877,8 +893,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1085,8 +1103,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1117,8 +1137,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1149,8 +1171,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1270,8 +1294,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1302,8 +1328,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1334,8 +1362,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1455,8 +1485,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1487,8 +1519,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1519,8 +1553,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1727,8 +1763,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1759,8 +1797,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1791,8 +1831,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1912,8 +1954,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1944,8 +1988,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -1976,8 +2022,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2097,8 +2145,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2129,8 +2179,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2161,8 +2213,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2469,8 +2523,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2501,8 +2557,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2533,8 +2591,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2654,8 +2714,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2686,8 +2748,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2718,8 +2782,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2839,8 +2905,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2871,8 +2939,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -2903,8 +2973,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3114,8 +3186,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3146,8 +3220,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3178,8 +3254,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3299,8 +3377,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3331,8 +3411,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3363,8 +3445,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3484,8 +3568,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3516,8 +3602,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3548,8 +3636,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3759,8 +3849,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3791,8 +3883,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3823,8 +3917,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3944,8 +4040,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -3976,8 +4074,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4008,8 +4108,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4130,8 +4232,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4162,8 +4266,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4194,8 +4300,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4507,8 +4615,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4539,8 +4649,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4571,8 +4683,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4693,8 +4807,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4725,8 +4841,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4757,8 +4875,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4880,8 +5000,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4912,8 +5034,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -4944,8 +5068,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -5156,8 +5282,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -5188,8 +5316,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -5220,8 +5350,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -5341,8 +5473,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -5373,8 +5507,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -5405,8 +5541,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -5526,8 +5664,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -5558,8 +5698,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
             key = Console.ReadKey();
@@ -5590,8 +5732,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             //Console.Clear();
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
@@ -5803,8 +5947,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             //Console.Clear();
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
@@ -5836,8 +5982,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             //Console.Clear();
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
@@ -5869,8 +6017,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             //Console.Clear();
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
@@ -5991,8 +6141,10 @@ namespace Test_5
             }
 
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             //Console.Clear();
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
@@ -6024,8 +6176,10 @@ namespace Test_5
             }
             
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             //Console.Clear();
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
@@ -6056,8 +6210,10 @@ namespace Test_5
             }
             string Zakaz = "ванильны, треугольный, красный, маленький торт";
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             //Console.Clear();
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
@@ -6181,8 +6337,10 @@ namespace Test_5
             }
             string Zakaz = "ванильны, треугольный, красный, большой торт";
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             //Console.Clear();
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
@@ -6214,8 +6372,10 @@ namespace Test_5
             }
             string Zakaz = "ванильны, треугольный, красный, средний торт";
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             //Console.Clear();
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
@@ -6247,8 +6407,10 @@ namespace Test_5
             }
             string Zakaz = "ванильны, треугольный, красный, маленький торт";
             string ZakazCoast = "К оплате: " + coast;
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", Zakaz);
-            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt", ZakazCoast);
+            string p = "";
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<Заказ от текущая дата>", p);
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "<", Zakaz + ">");
+            File.AppendAllText("C:\\Users\\PC_of_Matvey\\Desktop\\Zakaz.txt" + "Цена <", ZakazCoast + ">");
 
             //Console.Clear();
             Console.WriteLine("Если вы хотите сделать еще один заказ то нажмите Ентер");
